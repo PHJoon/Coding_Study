@@ -1,6 +1,6 @@
-# coding study
+# Coding_Study
 
-# README by eveinseojeon
+### (README by eveinseojeon)
 
 ## 👤 멤버
 
@@ -39,7 +39,7 @@
 
 ## ✔ 진행 내용
 
-| 주차  | 날짜         | 언어   | 사이트                                           | 문제                                                                                                                                                                         | 레벨 | 알고리즘 유형 | 문제 선정자 |
-| ----- | ------------ | ------ | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- | ----------- |
-| 1주차 | 22.12.12(월) | Python | [Leetcode](https://leetcode.com/) | [1.Two sum](https://leetcode.com/problems/two-sum/),[42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/),[15.3Sum](https://leetcode.com/problems/3sum/),[561 Array Partition](https://leetcode.com/problems/array-partition/),[238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/),[121.Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |      |배열               |형한결             |
-|       | 22.12.12(월) | Python | [Leetcode](https://leetcode.com/)                | [SELECT](https://leetcode.com/)                                                                                                                                              |      |               |             |
+| 주차  | 날짜         | 언어   | 사이트                            | 문제                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 레벨 | 알고리즘 유형 | 문제 선정자 |
+| ----- | ------------ | ------ | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- | ----------- |
+| 1주차 | 22.12.12(월) | Python | [Leetcode](https://leetcode.com/) | [1.Two sum](https://leetcode.com/problems/two-sum/),[42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/),[15.3Sum](https://leetcode.com/problems/3sum/),[561 Array Partition](https://leetcode.com/problems/array-partition/),[238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/),[121.Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |      | 배열          | 형한결      |
+|       | 22.12.12(월) | Python | [Leetcode](https://leetcode.com/) | [SELECT](https://leetcode.com/)                                                                                                                                                                                                                                                                                                                                                                                                                             |      |               |             |
