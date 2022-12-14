@@ -41,5 +41,5 @@
 
 | 주차  | 날짜         | 언어   | 사이트                                           | 문제                                                                                                                                                                         | 레벨 | 알고리즘 유형 | 문제 선정자 |
 | ----- | ------------ | ------ | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- | ----------- |
-| 1주차 | 22.12.12(월) | Python | [SWEA](https://swexpertacademy.com/main/main.do) | [Stack2](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIc7KqfQDFAWg) - Forth, 미로, 토너먼트 카드게임, 배열 최소 합 |      |               |             |
+| 1주차 | 22.12.12(월) | Python | [SWEA](https://swexpertacademy.com/main/main.do) | [Two sum]https://leetcode.com/problems/two-sum/) |      |               |             |
 |       | 22.12.12(월) | Python | [Leetcode](https://leetcode.com/)                | [SELECT](https://leetcode.com/)                                                                                                                                              |      |               |             |
